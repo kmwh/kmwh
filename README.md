@@ -1,4 +1,4 @@
-## Hi there! I am kmwh.
+## Hi there! I am kwh.
 
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
